@@ -6,6 +6,10 @@
 * A CI (Continuous Intergration) script to check source code quality and to deploy the app automatically
 * ...
 
+## Screen-shots
+![Source code with TDD 01](https://github.com/NguyenNgocMinh-SE182009/math-util/blob/main/screen-shots/Source-code-with-TDD-DDT.png)
+![Source code with TDD 02](https://github.com/NguyenNgocMinh-SE182009/math-util/blob/main/screen-shots/Source-code-with-TDD-DDT-02.png)
+
 ### Connect me via: nguyengocminh17012004@gmail.com
 
 #### &#169; 2025 Ngọc.Minh
